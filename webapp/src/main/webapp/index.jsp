@@ -12,8 +12,8 @@
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter your Email</b></label>
-    <input type="text" placeholder="Enter Email Address" name="email" id="email" required>
+    <label for="House"><b>Enter your House</b></label>
+    <input type="text" placeholder="Enter House Address" name="email" id="email" required>
     <br>
 
     <label for="psw"><b>Password</b></label>
