@@ -8,6 +8,10 @@
     <input type="text" placeholder="Enter Middle Name" name="Name" id="Name" required>
     <br>
     
+    <label for="Department"><b>Enter your Department</b></label>
+    <input type="text" placeholder="Enter Department Name" name="Name" id="Name" required>
+    <br>
+
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter Mobile Number" name="mobile" id="mobile" required>
     <br>
